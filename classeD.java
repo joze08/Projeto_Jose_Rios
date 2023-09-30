@@ -10,7 +10,7 @@ public class classeD {
     System.out.println("Numero de matricula: 202210444");
   }
 
-  public void MD4(){
-    System.out.println("MD4");
+  public void MD3() {
+    System.out.println("MD3");
   }
 }
