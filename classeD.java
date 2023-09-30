@@ -9,8 +9,4 @@ public class classeD {
   public void MD2() {
     System.out.println("Numero de matricula: 202210444");
   }
-
-  public void MD3() {
-    System.out.println("MD3");
-  }
 }
