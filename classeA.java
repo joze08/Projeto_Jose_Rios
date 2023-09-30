@@ -30,5 +30,3 @@ public class classeA {
     System.out.println("Alteração a classe A partir do clone");
   }
 }
-
-// aaaa
