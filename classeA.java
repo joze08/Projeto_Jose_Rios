@@ -2,6 +2,10 @@ public class classeA {
   private int A1;
   private float A2;
 
+  public int getSoma(int a, int b){
+        return a+b;
+  }
+  
   public int getA1() {
     return A1;
   }
